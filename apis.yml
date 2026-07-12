@@ -34,6 +34,8 @@ apis:
       - type: Documentation
         url: https://opiproject.org/
 common:
+  - type: DomainSecurity
+    url: security/opi-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/opiproject
   - type: Documentation
@@ -44,6 +46,8 @@ common:
     name: Open Programmable Infrastructure GitHub
     description: Source code and repositories for Open Programmable Infrastructure.
     url: https://github.com/opiproject
+  - url: https://opiproject.org/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
