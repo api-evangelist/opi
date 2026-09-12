@@ -57,6 +57,8 @@ apis:
       - type: Documentation
         url: https://opiproject.org/
 common:
+  - type: Website
+    url: https://www.opiproject.org/
   - type: DomainSecurity
     url: security/opi-domain-security.yml
   - type: LinkedIn
